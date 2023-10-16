@@ -15,3 +15,5 @@ Program for the camera trap was programmed using the Arduino IDE
 using the ESP32 libraries as well as libraries for communicating with SD card (SD.h, SPI.h, FS.h) and camera (esp_camera.h). 
 
 ![image](https://github.com/Jumblii/CameraTrap/assets/41615708/d34a4a7e-f6cd-45c6-87f7-713b0eb2e256)
+
+The Arduino code can be viewed using Arduino IDE. ESP32 Wrover Dev Cam, micro SD card adapter and infrared sensor are needed to run the project on a device.
